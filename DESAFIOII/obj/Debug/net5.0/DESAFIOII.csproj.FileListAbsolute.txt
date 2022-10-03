@@ -1,0 +1,16 @@
+C:\Users\Marques\source\repos\DESAFIOII\DESAFIOII\bin\Debug\net5.0\DESAFIOII.exe
+C:\Users\Marques\source\repos\DESAFIOII\DESAFIOII\bin\Debug\net5.0\DESAFIOII.deps.json
+C:\Users\Marques\source\repos\DESAFIOII\DESAFIOII\bin\Debug\net5.0\DESAFIOII.runtimeconfig.json
+C:\Users\Marques\source\repos\DESAFIOII\DESAFIOII\bin\Debug\net5.0\DESAFIOII.runtimeconfig.dev.json
+C:\Users\Marques\source\repos\DESAFIOII\DESAFIOII\bin\Debug\net5.0\DESAFIOII.dll
+C:\Users\Marques\source\repos\DESAFIOII\DESAFIOII\bin\Debug\net5.0\DESAFIOII.pdb
+C:\Users\Marques\source\repos\DESAFIOII\DESAFIOII\obj\Debug\net5.0\DESAFIOII.csproj.AssemblyReference.cache
+C:\Users\Marques\source\repos\DESAFIOII\DESAFIOII\obj\Debug\net5.0\DESAFIOII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marques\source\repos\DESAFIOII\DESAFIOII\obj\Debug\net5.0\DESAFIOII.AssemblyInfoInputs.cache
+C:\Users\Marques\source\repos\DESAFIOII\DESAFIOII\obj\Debug\net5.0\DESAFIOII.AssemblyInfo.cs
+C:\Users\Marques\source\repos\DESAFIOII\DESAFIOII\obj\Debug\net5.0\DESAFIOII.csproj.CoreCompileInputs.cache
+C:\Users\Marques\source\repos\DESAFIOII\DESAFIOII\obj\Debug\net5.0\DESAFIOII.dll
+C:\Users\Marques\source\repos\DESAFIOII\DESAFIOII\obj\Debug\net5.0\refint\DESAFIOII.dll
+C:\Users\Marques\source\repos\DESAFIOII\DESAFIOII\obj\Debug\net5.0\DESAFIOII.pdb
+C:\Users\Marques\source\repos\DESAFIOII\DESAFIOII\obj\Debug\net5.0\DESAFIOII.genruntimeconfig.cache
+C:\Users\Marques\source\repos\DESAFIOII\DESAFIOII\obj\Debug\net5.0\ref\DESAFIOII.dll
